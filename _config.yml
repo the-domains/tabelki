@@ -1,0 +1,28 @@
+name: Tabelki
+favicon: null
+layout_spectrum: 0.057131952373310924
+typography_spectrum: 0.16188333416357636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0581861468963325
+  lightness: 0.2004875021521002
+  saturation: 0.4828241483774036
+  rhythmicContrast: 0.6002376901451498
+purpose: []
