@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tabelki]]></title>
+        <description><![CDATA[Tabelki]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 17:31:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cegła 1988/1999 - czas miniony]]></title>
+            <description><![CDATA[<article><h1>Cegła 1988/1999 - czas miniony</h1><p>tabelka pochodzi z serwisu http://www.kolej.o-to.pl/rozklady/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a624e5c4a6d5e08f2e4f30bc3a8e506bff1fef37.jpg"></article>]]></description>
+            <link>undefinedcegla-19881999-czas-miniony/index.html</link>
+            <guid isPermaLink="false">54923272-d03c-4939-979c-67660aac8288</guid>
+            <pubDate>Mon, 04 Jan 2016 17:31:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
